@@ -1,7 +1,7 @@
 # Business Card Generator
 
 A simple and customizable Business Card Generator built with Python and Streamlit.
-
+https://business-card-generatorgit-lama.streamlit.app/ 
 The application allows users to enter their business and personal information, upload a profile image, choose a card color, preview the card, and download the final design as a PNG image.
 
 
